@@ -1,0 +1,29 @@
+﻿/* Place Your Custom Styles Here */
+
+.img-fw {
+  width: 100%;
+}
+
+.textlink {
+  border-bottom:1px dotted #FFF;
+}
+
+::selection {
+  background: #377dff; /* WebKit/Blink Browsers */
+  color: #ffffff;
+}
+::-moz-selection {
+  background: #377dff; /* Gecko Browsers */
+  color: #ffffff;
+}
+
+
+.img-center {
+	margin: auto;
+}
+
+.bg-sportspattu {background-color: #fff7eb !important}
+
+.bg-difadbiz {background-color: #edf0fb !important}
+
+.bg-airportbuddy {background-color: #FFF0F0 !important}
